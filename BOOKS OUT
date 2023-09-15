@@ -1,0 +1,12 @@
+BOOKS OUT - Books Out is a web application for ordering books in online just a simple online shopping application made using the mentioned technical stack HTML,CSS,JS,Boostrap,Node JS,Express JS,Mongo DB connection 
+it is a full stack application developed as a mini project for my academic projects. It was completely built and hosted both the application and Database storage in online . It consists of a 
+
+Login Module - User can login with their credtinals Usermail , Password 
+User Register Module - User can register their account 
+Purchasing Module - In this the user can see various books in their home page and select any one each book has a description and music sense related to the book 
+Request Module - The request module in that they can give their book suggestions are can make a request of any books by seeing the request the developer can update the books selling details
+
+Each and every module is connected to DB and server for backend functions and worked properly
+
+
+Note : As of further updates in the project I had been disable the application from server , soon as possible after builting some new modules will connect it to server (22-06-2023)
